@@ -1,0 +1,41 @@
+/* Reset */
+* {
+    margin: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+    padding: 0;
+}
+
+/* html */
+
+.container {
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+.header {
+    background-color: lightgrey;
+    display: flex;
+    width: 80%;
+    margin:0 auto;
+    align-items: center;
+
+}
+
+.title {
+ margin-right: auto;  
+}
+
+.subtitle {
+margin-left: auto;
+}
+
+.subtitle-item{
+    padding: 0 0.3em;
+}
+
+a {
+    color: #000;
+}
+
+
+
